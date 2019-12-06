@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\bin\Debug\netcoreapp3.0\SnowManProject.exe
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\bin\Debug\netcoreapp3.0\SnowManProject.deps.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\bin\Debug\netcoreapp3.0\SnowManProject.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\bin\Debug\netcoreapp3.0\SnowManProject.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\bin\Debug\netcoreapp3.0\SnowManProject.dll
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\bin\Debug\netcoreapp3.0\SnowManProject.pdb
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\obj\Debug\netcoreapp3.0\SnowManProject.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\obj\Debug\netcoreapp3.0\SnowManProject.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\obj\Debug\netcoreapp3.0\SnowManProject.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\obj\Debug\netcoreapp3.0\SnowManProject.dll
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\SnowManProject\obj\Debug\netcoreapp3.0\SnowManProject.pdb

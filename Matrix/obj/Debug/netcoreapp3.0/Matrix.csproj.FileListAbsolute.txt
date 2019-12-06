@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\bin\Debug\netcoreapp3.0\Matrix.exe
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\bin\Debug\netcoreapp3.0\Matrix.deps.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\bin\Debug\netcoreapp3.0\Matrix.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\bin\Debug\netcoreapp3.0\Matrix.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\bin\Debug\netcoreapp3.0\Matrix.dll
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\bin\Debug\netcoreapp3.0\Matrix.pdb
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\obj\Debug\netcoreapp3.0\Matrix.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\obj\Debug\netcoreapp3.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\obj\Debug\netcoreapp3.0\Matrix.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\obj\Debug\netcoreapp3.0\Matrix.dll
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\Matrix\obj\Debug\netcoreapp3.0\Matrix.pdb

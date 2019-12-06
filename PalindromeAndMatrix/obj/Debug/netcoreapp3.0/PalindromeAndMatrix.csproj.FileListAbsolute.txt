@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\bin\Debug\netcoreapp3.0\PalindromeAndMatrix.exe
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\bin\Debug\netcoreapp3.0\PalindromeAndMatrix.deps.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\bin\Debug\netcoreapp3.0\PalindromeAndMatrix.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\bin\Debug\netcoreapp3.0\PalindromeAndMatrix.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\bin\Debug\netcoreapp3.0\PalindromeAndMatrix.dll
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\bin\Debug\netcoreapp3.0\PalindromeAndMatrix.pdb
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\obj\Debug\netcoreapp3.0\PalindromeAndMatrix.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\obj\Debug\netcoreapp3.0\PalindromeAndMatrix.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\obj\Debug\netcoreapp3.0\PalindromeAndMatrix.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\obj\Debug\netcoreapp3.0\PalindromeAndMatrix.dll
+C:\Users\julia.voronetskaja\source\repos\PalindromeAndMatrix\PalindromeAndMatrix\obj\Debug\netcoreapp3.0\PalindromeAndMatrix.pdb
